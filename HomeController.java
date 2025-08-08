@@ -10,4 +10,5 @@ public class HomeController {
         return "inde.html";
     }
 }
+// Home controller change
 // but we do not need the changes
